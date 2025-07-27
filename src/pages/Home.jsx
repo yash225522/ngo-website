@@ -84,7 +84,7 @@ const Home = () => {
                   <Typography variant="body1">
                     "Volunteering with this NGO was life-changing. The work they do truly changes lives."
                   </Typography>
-                  <Typography variant="subtitle2" align="right">– Priya S., Volunteer</Typography>
+                  <Typography variant="subtitle2" align="right">– Yash Gupta, Volunteer</Typography>
                 </CardContent>
               </Card>
             </Grid>
@@ -94,7 +94,7 @@ const Home = () => {
                   <Typography variant="body1">
                     "Thanks to their education program, my son now goes to school. We're forever grateful!"
                   </Typography>
-                  <Typography variant="subtitle2" align="right">– Rohit M., Beneficiary</Typography>
+                  <Typography variant="subtitle2" align="right">– Yogita Swami, Beneficiary</Typography>
                 </CardContent>
               </Card>
             </Grid>
